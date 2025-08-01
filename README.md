@@ -20,7 +20,7 @@ Welcome to my GitHub profile.
 - 🔭 I’m currently working on a web app
 - 🌱 I’m learning React and Node.js
 - 💬 Ask me about HTML, CSS, and JavaScript
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [rahulkpatil127.gmail.com](mailto:your.email@example.com)
 
 ## 🛠️ Skills
 
